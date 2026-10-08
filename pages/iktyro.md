@@ -4,6 +4,12 @@ subtitle: Lune minière
 category: Lieux, Lunes minières
 image: iktyro.jpg
 updated: 25 septembre 10024 AE
+featured: true
+facts:
+  - l'espérance de vie des mineurs d'[[iktyro|Iktyro]] est estimée à 43 ans
+  - [[iktyro|Iktyro]] fournit environ 23 % de la demande galactique en scandium
+  - la capitale d'Iktyro, [[lanthine|Lanthine]], a été détruite par une frappe nucléaire en 9790 AE
+  - la [[fcg|FCG]] doit son ascension à la guerre et aux ressources d'[[iktyro|Iktyro]]
 info:
   Pays: [[consortium-icarien|Consortium Icarien]]
   Population: 60 000 habitants
