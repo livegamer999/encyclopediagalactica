@@ -2,7 +2,7 @@
 title: Iktyro
 subtitle: Lune minière
 category: Lieux, Lunes minières
-image: iktyro.jpg
+image: images/iktyro.jpg
 updated: 25 septembre 10024 AE
 featured: true
 facts:
